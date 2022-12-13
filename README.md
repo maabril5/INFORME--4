@@ -17,6 +17,8 @@ Haber entendido los conceptos presentados en el capíto 5 y 6, referentes a los 
 
 3. EJERCICIOS DE APRENDIZAJE.
 
+CAPÍTULO 7.
+
 SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/207450838-035a3957-50fb-4579-b66f-d0e4cef64107.png)
@@ -99,6 +101,74 @@ SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 
 
+![image](https://user-images.githubusercontent.com/117920423/207452428-f87f99d9-ca86-40b2-a9be-54d9c37dd617.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207452469-1ad6f921-61e6-40a3-9c45-3e0f34436ba8.png)
+
+
+
+SECCIÓN 7–4 Efecto de carga de un voltímetro
+
+![image](https://user-images.githubusercontent.com/117920423/207452539-62bcbd59-dac7-46d8-bb7f-9578881efbfb.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207452597-e86041b7-ad40-4e99-80ee-37362b5f3a1c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207452706-0b9adb49-e170-4652-89b3-fdff224f65ef.png)
+
+
+
+SECCIÓN 7–5 Redes en escalera
+
+![image](https://user-images.githubusercontent.com/117920423/207452790-ec4b7c72-d77d-4a97-9362-5d3ec7ed1b34.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207452817-82b3c3b3-bb55-4feb-b7bb-b4d5f1c2e1be.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207452888-04a20a7f-0af7-496a-832a-66e09ef314ed.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207452911-5878430f-f2aa-4ce5-82a9-91b3a9d2a0ec.png)
+
+
+
+SECCIÓN 7–6 El puente Wheatstone
+
+![image](https://user-images.githubusercontent.com/117920423/207453060-328fbc7b-7643-4d6e-9d96-dba85a121550.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207453096-5407be35-d304-4421-ade2-394bb33f927f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207453119-d56d9990-7a9e-4432-b50c-43c14472c076.png)
+
+
+
+SECCIÓN 7–7 Localización de fallas
+
+![image](https://user-images.githubusercontent.com/117920423/207453273-9e2b1ab7-078d-4aa2-9fd9-a989144c83c8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207453311-6f5bed55-0d19-4483-af6f-751348aa2886.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207453385-b4138b23-7696-40f2-b9c0-93ac35839b5d.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207453439-3d7aa7d4-010e-4e4f-af2d-1ce8cba9148d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207453460-4dc35bbd-d492-4832-95a8-64bdda9b02df.png)
+
+
+
+
+CAPÍTUILO 8.
 
 
 
