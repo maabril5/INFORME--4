@@ -170,6 +170,34 @@ SECCIÓN 7–7 Localización de fallas
 
 CAPÍTUILO 8.
 
+SECCIÓN 8–3 Conversiones de fuente
+
+![image](https://user-images.githubusercontent.com/117920423/207484141-adcc0bbc-f00b-4620-ad88-c64926a02d3d.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207484234-758b06b9-f50b-439a-a8ce-f52f783a7b4c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207484261-f184c83c-0d66-41d9-adda-888c5edbea38.png)
+
+
+
+SECCIÓN 8–4 El teorema de superposición
+
+![image](https://user-images.githubusercontent.com/117920423/207484328-7e466d51-2433-4ea3-b0c1-f631cb28e378.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207484377-cabc2e14-0c1b-4e5e-8e38-a2e6444a5cc5.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207484497-92b9180d-3d58-41d1-a903-c90d9e512a67.png)
+
+
+
 
 
 
