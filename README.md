@@ -2,14 +2,14 @@
 
 1. OBJETIVOS:
 
-- Comprender y estudiar lo que es un circuito en serie y paralelo, sus diferencias y cálculos que conyeva cada uno.
-- Aplicar la ley de kirchhoff en el uso de fórmulas para la reslución de estos circuitos.
-- Recordar la ley de Ohm para la aplicación de problemas con corriente, resistencia y voltaje
+- Comprender la diferencia en el sentido de las conversiones de delta a Y O de Y a delta.
+- Aplicar conceptos de divisores de voltaje al implementarlo en un circuito, teniendo en cuenta la fuente de voltaje.
+- Saber los pasos a realizar para el uso de los teoremas presentados en los capítulos.
 - Mediante un video establecer el tema expuesto y adquirir un mejor entendimiento.
 
 1.1 OBJETIVO ESPECÍFICO:
 
-Haber entendido los conceptos presentados en el capíto 5 y 6, referentes a los circuitos en serie y paralelo con sus ejercicios y gráficas presentadas.
+Haber entendido los conceptos presentados en el capíto 7 y 8, referentes a los distintos teoremas referentes a Thevenin, Norton y Transferencia de potencia máxima, además analizar los divisores de voltaje y conversiones que se puedan presentar, junto a definiciones de corrientes y resistencias.
 
 2. MARCO TEÓRICO
 
@@ -270,57 +270,31 @@ SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
 ![image](https://user-images.githubusercontent.com/117920423/207489210-cad604cf-1b26-49d6-95ff-5ab26b6cd093.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 4. CONCLUSIONES:
 
-- Se concluye tras el informe realizado lo influyente que son las leyes de Ohm y las de voltajes de Kirchhoff para poder resolver ejercicios de resistencias.
+- Se concluye tras el informe realizado la utilidad de los teoremas de Norton y Thevenin para la resolución de ejercicios.
 
-- Los circuitos en serie y paralelo tienen una distinta funcionalidad en donde vemos el benefcios de los circuitos en paralelo para medir toda la corriente del mismo-
+- Al tener un entendimiento de conceptos previos ya conocidos, se pudo desarrollar de una mejor manera los nuevos temas presentados
 
-- La localización de fallas es de gran ayuda para el análisis del circuito y su margen de error que pude presentar
+- El teorema de superposición para el análisis de circuitos serie o paralelo es efectivo porque nos permitió reducir un circuito grande en una más simple, con esto se facilita el análisis del circuito.
 
 5. VIDEO: 
 
 6. BIBLIOGRAFÍA:
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
+
+Pozueta, M. A. R., Angel, M., & Pozueta, R. (s/f). PUENTE DE WHEATSTONE. Unican.es. Recuperado el 14 de diciembre de 2022, de https://personales.unican.es/rodrigma/PDFs/Puente%20de%20Wheatstone.pdf
+
+¿Qué es una fuente de corriente? (s/f). Acmax.mx. Recuperado el 14 de diciembre de 2022, de https://acmax.mx/que-es-una-fuente-de-corriente
+
+Susana. (s/f). Teorema de superposici�n. Innovacionumh.es. Recuperado el 14 de diciembre de 2022, de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
+
+Teorema de Norton – Análisis de circuitos eléctricos. (2019, noviembre 10). dademuchconnection. https://dademuch.com/2019/11/10/teorema-de-norton-analisis-de-circuitos-electricos/
+
+Teorema de Thevenin - Explicado con ejercicios resueltos. (2020, noviembre 10). Mi Universo Electrónico. https://miuniversoelectronico.com/el-teorema-de-thevenin/
+
+�Que es una fuente de poder variable de corriente directa (CD)? (s/f). Finaltest.com. Recuperado el 14 de diciembre de 2022, de https://www.finaltest.com.mx/product-p/art-6.htm
+
+
 
