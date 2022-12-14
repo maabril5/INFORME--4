@@ -13,6 +13,15 @@ Haber entendido los conceptos presentados en el capíto 5 y 6, referentes a los 
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/117920423/207718581-08432e1b-9013-4efa-a014-e5ec53bb9930.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207718728-09466836-7f03-45da-8687-7bad9e5bb792.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207718883-ff5441ee-4bf1-45cf-a26b-611c525b902b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207718997-6e8b5a04-e55d-43d8-888a-88495c945623.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207719076-d8c8b56b-6a6f-44d9-9ea9-eccce515cb05.png)
 
 
 3. EJERCICIOS DE APRENDIZAJE.
