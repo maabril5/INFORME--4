@@ -198,6 +198,71 @@ SECCIÓN 8–4 El teorema de superposición
 
 
 
+![image](https://user-images.githubusercontent.com/117920423/207488571-8d8f11a3-05c8-4e4a-932a-85a5b1af8925.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207488595-86ccd6ff-b990-4e3a-ba33-f74d5a3bc6e6.png)
+
+
+
+SECCIÓN 8–5 Teorema de Thevenin
+
+![image](https://user-images.githubusercontent.com/117920423/207488669-7f1c1841-ce3b-4d13-8fa3-5515b8ec727c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207488732-baf09904-9f5d-46a9-97cc-ea721c49a749.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207488753-bf575bca-05bc-4076-bbbc-0efa698e5486.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207488791-4d477789-fc1a-4a92-8727-b1c0afe7190c.png)
+
+
+
+SECCIÓN 8–6 Teorema de Norton
+
+![image](https://user-images.githubusercontent.com/117920423/207488856-dae4c78e-100d-4915-b9ca-11442f8a5233.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207488896-bd838c92-fa51-4ec7-8acd-83574f2a7c91.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207488950-529892ea-9846-4586-bc38-b09335740c91.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207488991-a49c4b43-f45e-4be0-b27d-76140958a61e.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207489036-a25c4af7-cef5-4073-b1fd-5dd033b91db5.png)
+
+
+
+SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+
+![image](https://user-images.githubusercontent.com/117920423/207489098-fde3fd9a-543f-4859-86db-1cd85c2d56bc.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207489113-305e33d8-a890-42d6-85ae-4aa856b83efb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207489136-cdb40054-b4e9-44e7-89f4-7ada15d5fc4c.png)
+
+
+
+SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
+
+![image](https://user-images.githubusercontent.com/117920423/207489190-6fb43c87-80db-444b-8ac2-bef702e57229.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/207489210-cad604cf-1b26-49d6-95ff-5ab26b6cd093.png)
+
+
+
+
 
 
 
