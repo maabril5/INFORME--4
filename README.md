@@ -34,7 +34,7 @@ SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/207450884-787c5050-7732-4d5b-8267-87a11ce0bc91.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207755563-98dcb85b-176d-46f4-9ffd-7b42dce5491e.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451008-56892c3b-d84c-492a-9cfc-fae2c9fe2fe0.png)
 
