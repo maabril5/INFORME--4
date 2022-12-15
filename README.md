@@ -278,7 +278,7 @@ SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
 
 - El teorema de superposición para el análisis de circuitos serie o paralelo es efectivo porque nos permitió reducir un circuito grande en una más simple, con esto se facilita el análisis del circuito.
 
-5. VIDEO: 
+5. VIDEO: https://youtu.be/LvTkAPcVdN4
 
 6. BIBLIOGRAFÍA:
 
