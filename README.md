@@ -80,37 +80,39 @@ R2 = (1)(667)/(1-667) = 2kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/207451416-39e3b038-6ee4-426f-9e1d-ebab15340f3e.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207759824-d528dead-4a07-4bb9-965c-c2aab71b143d.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451473-cfce12eb-fe5a-4bd3-a0f1-e6c0ce736f6d.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451503-05e22863-2c73-40be-b287-eb38269d328a.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207759885-0537074a-7989-4751-bd1d-78804eab5bf6.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451539-2b800bd5-5a4e-4082-8496-8fcc713381cb.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451595-28bea001-a77a-433e-89de-62ff8d6945a0.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207759924-b4cbda6a-6b32-4d7b-b8cf-807b69ee2a9c.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451625-bd5fc01e-c265-4b60-9291-211140d9edfa.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451686-747ad422-c740-4687-82cb-1fc1cec1ace4.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207759970-fdeb0648-7d5c-4310-b6ee-b2e28d9c8086.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451764-04fae4ab-9274-4c22-aff8-66556e3508e1.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207760010-24a3ca91-ac5f-4765-9acd-6b36b8e4de3f.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451852-3220f3b6-372d-4470-95b9-ab30a8895c7f.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207760067-341c10a3-20ac-4043-bfd5-cada7f36001d.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451910-5bb0576a-d822-4760-9814-6518b52749a5.png)
 
+![image](https://user-images.githubusercontent.com/117920423/207760147-0793684d-0dee-4d66-a519-7945c99ecf55.png)
 
+![image](https://user-images.githubusercontent.com/117920423/207760173-4f3c7b92-5544-4173-9789-5904374f0725.png)
 
 SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
