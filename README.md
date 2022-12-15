@@ -118,27 +118,31 @@ SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 ![image](https://user-images.githubusercontent.com/117920423/207451992-21006608-80ec-45f7-a13b-ea85f63306c9.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207760482-5ea43eea-6817-4ce0-8aff-1982c836425d.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207452047-fe66f3a4-d2a1-42bf-9ca0-cd3b37cff662.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207452076-db3e969e-b1e8-4732-af11-8506450fbfd3.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207760525-43ca1746-d1f9-47fe-9bf4-21b3404c62c6.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207452111-edecc5ca-7a57-48b3-8b52-55e2f1187fd7.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207452135-3014e5bb-7fce-43f6-abe5-99f8484c4622.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207760551-dd7e41e6-9a37-4aa2-b034-bc3776026d79.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207452428-f87f99d9-ca86-40b2-a9be-54d9c37dd617.png)
 
+![image](https://user-images.githubusercontent.com/117920423/207760598-761de36a-b46a-464a-a1f0-2a92f644b417.png)
 
+![image](https://user-images.githubusercontent.com/117920423/207760613-dbf18e3b-8bc4-4bd4-b989-c3e50ba48a12.png)
+
+![image](https://user-images.githubusercontent.com/117920423/207760636-50fb2760-79ee-429a-8f57-4d4e5870acdd.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207452469-1ad6f921-61e6-40a3-9c45-3e0f34436ba8.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207760666-2ba296bc-5410-4728-bb98-751692b65416.png)
 
 SECCIÓN 7–4 Efecto de carga de un voltímetro
 
