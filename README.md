@@ -68,13 +68,15 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/207451203-2d4831c5-e508-4fb3-af29-cdd1a9c2cc01.png)
 
+R2 = R1*RT/(R1-RT)
 
+R2 = (1)(667)/(1-667) = 2kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/207451245-6e3f3ace-7f15-4e47-b8ec-197f87aeb3c8.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451336-fb23ac80-a711-4a44-b5e4-169b8fdeb507.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/207759630-e694b248-8afc-458e-ade3-443396165b83.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451416-39e3b038-6ee4-426f-9e1d-ebab15340f3e.png)
 
