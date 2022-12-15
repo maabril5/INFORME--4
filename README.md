@@ -235,29 +235,24 @@ SECCIÓN 8–4 El teorema de superposición
 
 ![image](https://user-images.githubusercontent.com/117920423/207762876-7929a917-da90-4526-b784-489c912fe1d1.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207488571-8d8f11a3-05c8-4e4a-932a-85a5b1af8925.png)
-
-![image](https://user-images.githubusercontent.com/117920423/207488595-86ccd6ff-b990-4e3a-ba33-f74d5a3bc6e6.png)
-
-![image](https://user-images.githubusercontent.com/117920423/207762916-dd376dcf-c180-41e9-bf57-13125c03d4a0.png)
 
 SECCIÓN 8–5 Teorema de Thevenin
 
 ![image](https://user-images.githubusercontent.com/117920423/207488669-7f1c1841-ce3b-4d13-8fa3-5515b8ec727c.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207762959-aedc4415-7542-4ab5-a2f4-7bf18134e553.png)
+![image](https://user-images.githubusercontent.com/117920423/207763888-5d141ae2-de81-45dc-a087-308e9c806e65.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207488732-baf09904-9f5d-46a9-97cc-ea721c49a749.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207762991-20ac57d3-94d5-4030-ae52-f0d818a238b9.png)
+![image](https://user-images.githubusercontent.com/117920423/207763971-bd66d7ec-aa4a-428c-8f57-42cede76e257.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207488753-bf575bca-05bc-4076-bbbc-0efa698e5486.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207763019-d3442295-68a0-4aec-9c57-b2aeabf91e52.png)
+![image](https://user-images.githubusercontent.com/117920423/207764042-3c53bc12-1f6d-4f09-bcc8-b411c0863dbc.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207488791-4d477789-fc1a-4a92-8727-b1c0afe7190c.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207763062-e4e2eab2-3d56-4df1-87de-fe313417799a.png)
+![image](https://user-images.githubusercontent.com/117920423/207764073-f5a5e8de-7140-4f67-898c-54df30890413.png)
 
 SECCIÓN 8–6 Teorema de Norton
 
@@ -265,39 +260,37 @@ SECCIÓN 8–6 Teorema de Norton
 
 ![image](https://user-images.githubusercontent.com/117920423/207488896-bd838c92-fa51-4ec7-8acd-83574f2a7c91.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207763098-047fd226-e245-4411-ad3c-b3c915e0b1c9.png)
+![image](https://user-images.githubusercontent.com/117920423/207764218-cecd19c7-063d-40fb-85d9-41932c66fa45.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207488950-529892ea-9846-4586-bc38-b09335740c91.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207488991-a49c4b43-f45e-4be0-b27d-76140958a61e.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207763137-905ff2ca-30be-4e8e-8b2a-a1688840160e.png)
+![image](https://user-images.githubusercontent.com/117920423/207764233-df3b8fc2-8115-4782-a13e-189d546763cf.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207489036-a25c4af7-cef5-4073-b1fd-5dd033b91db5.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207763154-e910f833-f3e1-4768-bafe-c9999feb99b5.png)
+![image](https://user-images.githubusercontent.com/117920423/207764265-2e615ae3-d4ca-43e2-9b82-11b620d16838.png)
 
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 ![image](https://user-images.githubusercontent.com/117920423/207489098-fde3fd9a-543f-4859-86db-1cd85c2d56bc.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207763380-d94b2764-0460-49da-b806-87ce9cbca9ee.png)
+![image](https://user-images.githubusercontent.com/117920423/207764380-a07c1762-d0f9-4001-8170-2b4504069920.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207489113-305e33d8-a890-42d6-85ae-4aa856b83efb.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207489136-cdb40054-b4e9-44e7-89f4-7ada15d5fc4c.png)
-
-
+![image](https://user-images.githubusercontent.com/117920423/207764416-9d4d3a14-4fbc-4393-be7b-c2df6287d20d.png)
 
 SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
 
 ![image](https://user-images.githubusercontent.com/117920423/207489190-6fb43c87-80db-444b-8ac2-bef702e57229.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207763429-e4f1f0e7-8c95-4383-9181-e9f0210540bd.png)
+![image](https://user-images.githubusercontent.com/117920423/207764451-bc0e01d0-cd65-4c73-8066-3fe502c7c6d2.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207489210-cad604cf-1b26-49d6-95ff-5ab26b6cd093.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207763315-190ce09f-f431-4450-9dc6-38f3425684db.png)
+![image](https://user-images.githubusercontent.com/117920423/207764479-82c8888a-a2fe-4358-90c8-08f928877e4d.png)
 
 
 4. CONCLUSIONES:
