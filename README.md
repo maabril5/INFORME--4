@@ -164,19 +164,15 @@ SECCIÓN 7–5 Redes en escalera
 
 ![image](https://user-images.githubusercontent.com/117920423/207761021-3327d78a-727e-48fd-84d8-24c6e74f2f45.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207452888-04a20a7f-0af7-496a-832a-66e09ef314ed.png)
-
-![image](https://user-images.githubusercontent.com/117920423/207761087-51c39b89-f488-4276-8f05-d66ddfc0c74d.png)
-
 ![image](https://user-images.githubusercontent.com/117920423/207452911-5878430f-f2aa-4ce5-82a9-91b3a9d2a0ec.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207761122-e7401306-05d5-4313-b819-9888d3d2cc26.png)
+
 
 SECCIÓN 7–6 El puente Wheatstone
 
 ![image](https://user-images.githubusercontent.com/117920423/207453060-328fbc7b-7643-4d6e-9d96-dba85a121550.png)
 
-![image](https://user-images.githubusercontent.com/117920423/207761156-ffd0483f-77fe-4d5a-a508-c37641f65c50.png)
+
 
 ![image](https://user-images.githubusercontent.com/117920423/207453096-5407be35-d304-4421-ade2-394bb33f927f.png)
 
