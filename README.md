@@ -38,13 +38,31 @@ SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/207451008-56892c3b-d84c-492a-9cfc-fae2c9fe2fe0.png)
 
+a) R3 || R4
 
+La combinación de R3 || R4 en serie con R2
+
+La combinación de R3 || R4 * R2 en paralelo con R1
+
+b) R1 || R2 || R3 || R4
+
+c) R6 || R7
+
+La combinación de R6 || R7 en serie con R5 Y R6
+
+R3 || R4
+
+La combinación de R3 || R4 en serie R1 y R2
+
+La combinación de R3 || R4 en R1 Y R2 en paralelo con la combinación de R6 || R7 y R4 || R8
 
 ![image](https://user-images.githubusercontent.com/117920423/207451090-23ba5ccb-fab4-4580-900a-608f8fac5b70.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/207451121-f7597503-c00b-4abd-a7ca-2cc7e6007c30.png)
 
+![image](https://user-images.githubusercontent.com/117920423/207757304-45aac941-dbca-4a75-82a6-a7fad8538364.png)
 
+No se puede apreciar el color de cada una de las bandas de las resistencias, es por eso que solo dejamos expresado el circuito esquemáticamente.
 
 SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
